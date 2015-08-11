@@ -1,0 +1,81 @@
+section, footer, aside, nav, article, figure, figcaption {
+        display: block;}
+      body {
+        color: #666666;
+        background-position: center;
+        font-family: Georgia, Times, serif;
+        line-height: 1.4em;
+        margin: 0px;}
+      .wrapper {
+        width: 940px;
+        margin: 20px auto 20px auto;
+        background-color: #ffffff;}
+      header {
+        height: 100px;
+        background-image: url(../images/bg-header.jpg);}
+      h1 {
+        text-indent: -9999px;
+        width: 940px;
+        height: 130px;
+        margin: 0px;}
+      nav, footer {
+        clear: both;
+        color: #ffffff;
+        background-image: url(../images/bg-header.jpg);;
+        height: 30px;}
+      section.courses {
+        float: left;
+        width: 659px;
+        border-right: 1px solid #eeeeee;}
+      article {
+        clear: both;
+        overflow: auto;
+        width: 100%;}
+      hgroup {
+        margin-top: 40px;}
+      figure {
+        float: left;
+        width: 242px;
+        height: 320px;
+        padding: 5px;
+        margin: 20px;
+        border: 1px solid #eeeeee;}
+      figcaption {
+        font-size: 90%;
+        text-align:center;
+        color: #ffffff;}
+      aside {
+        width: 230px;
+        float: left;
+        padding: 0px 0px 0px 20px;}
+      aside section a {
+        display: block;
+        padding: 10px;
+        border-bottom: 1px solid #eeeeee;}
+      aside section a:hover {
+        color: #985d6a;
+        background-color: #efefef;}
+      a {
+        color:#999;
+        text-decoration: none;}
+      h1, h2, h3 {
+        font-weight: normal;
+        color: #ffffff;}
+      h2 {
+        margin: 10px 0px 5px 0px;
+        padding: 0px;}
+      h3 {
+        margin: 0px 0px 10px 0px;
+        color: #ffffff;}
+	  p{
+			color: #ffffff;
+		}
+      aside h2 {
+        padding: 30px 0px 10px 0px;
+        color: #390;}
+      footer {
+        font-size: 80%;
+        padding: 7px 0px 0px 20px;
+        font-weight: bolder;
+        text-align: center;
+      }
